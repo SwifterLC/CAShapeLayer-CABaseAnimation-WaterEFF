@@ -20,20 +20,6 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="c1" translatesAutoresizingMaskIntoConstraints="NO" id="VSv-OF-jdn">
-                                <rect key="frame" x="119.5" y="265.5" width="136" height="136"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="c3" translatesAutoresizingMaskIntoConstraints="NO" id="4KP-24-QJn">
-                                <rect key="frame" x="119.5" y="265.5" width="136" height="136"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="c2" translatesAutoresizingMaskIntoConstraints="NO" id="8A0-zg-ppK">
-                                <rect key="frame" x="119.5" y="265.5" width="136" height="136"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
@@ -42,9 +28,4 @@
             <point key="canvasLocation" x="117.59999999999999" y="122.78860569715144"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="c1" width="136" height="136"/>
-        <image name="c2" width="136" height="136"/>
-        <image name="c3" width="136" height="136"/>
-    </resources>
 </document>
